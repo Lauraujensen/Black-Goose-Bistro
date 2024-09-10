@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color:#FBF2E4;
+    text-align:left;
+    font-family: sans-serif;
+    margin-top: 2rem;
+    margin-left: 7rem;
+    margin-right: 7rem;
+}
+
+header{
+    text-align: center;
+    font-family: serif;
+    text-transform: uppercase;
+    border-bottom: 1px rgb(110, 177, 204) solid;
+    margin-bottom: 1.5rem;
+}
+
+.h2{
+    color:chocolate;
+    font-size: 1rem;
+}
+
+p{
+    margin-bottom: 1rem;
+    margin-top: 1rem;
+}
+
+#location-and-hours{
+    margin-bottom: 1rem;
+}
